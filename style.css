@@ -42,8 +42,8 @@ body {
     align-items: center;
 }
 
-.imagem {
-    width: 40vw;
+img {
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
